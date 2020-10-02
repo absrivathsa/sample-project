@@ -1,2 +1,2 @@
 # sample-project
-Sample Project
+Sample Project of java unit testing.
